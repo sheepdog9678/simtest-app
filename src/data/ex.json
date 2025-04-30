@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "dimension": "EvsI",
+      "question": "당신은 새로운 사람들과의 만남에서?",
+      "options": [
+        { "text": "에너지가 생긴다", "type": "E" },
+        { "text": "조금 지친다", "type": "I" }
+      ]
+    },
+    {
+      "id": "q2",
+      "dimension": "EvsI",
+      "question": "혼자 있는 시간이 많을 때?",
+      "options": [
+        { "text": "지루하고 답답하다", "type": "E" },
+        { "text": "편하고 재충전된다", "type": "I" }
+      ]
+    },
+    {
+      "id": "q3",
+      "dimension": "EvsI",
+      "question": "여러 사람과 함께 있을 때 당신은?",
+      "options": [
+        { "text": "자연스럽게 대화를 주도한다", "type": "E" },
+        { "text": "듣는 편이 더 편하다", "type": "I" }
+      ]
+    },
+    {
+      "id": "q4",
+      "dimension": "SvsN",
+      "question": "일을 처리할 때 당신은?",
+      "options": [
+        { "text": "사실과 경험에 의존한다", "type": "S" },
+        { "text": "아이디어와 가능성을 본다", "type": "N" }
+      ]
+    },
+    {
+      "id": "q5",
+      "dimension": "SvsN",
+      "question": "설명을 들을 때 당신은?",
+      "options": [
+        { "text": "구체적인 예시가 이해를 돕는다", "type": "S" },
+        { "text": "비유와 상징이 더 와닿는다", "type": "N" }
+      ]
+    },
+    {
+      "id": "q6",
+      "dimension": "SvsN",
+      "question": "당신의 사고방식은?",
+      "options": [
+        { "text": "현실적인 편이다", "type": "S" },
+        { "text": "상상력이 풍부한 편이다", "type": "N" }
+      ]
+    },
+    {
+      "id": "q7",
+      "dimension": "TvsF",
+      "question": "결정을 내릴 때 당신은?",
+      "options": [
+        { "text": "논리와 사실을 기반으로 판단한다", "type": "T" },
+        { "text": "사람의 감정을 고려한다", "type": "F" }
+      ]
+    },
+    {
+      "id": "q8",
+      "dimension": "TvsF",
+      "question": "친구가 고민을 털어놓을 때?",
+      "options": [
+        { "text": "해결 방법을 제시한다", "type": "T" },
+        { "text": "공감하며 위로한다", "type": "F" }
+      ]
+    },
+    {
+      "id": "q9",
+      "dimension": "TvsF",
+      "question": "당신은 어떤 사람으로 보이고 싶은가요?",
+      "options": [
+        { "text": "이성적이고 냉철한 사람", "type": "T" },
+        { "text": "따뜻하고 이해심 많은 사람", "type": "F" }
+      ]
+    },
+    {
+      "id": "q10",
+      "dimension": "JvsP",
+      "question": "여행을 계획할 때 당신은?",
+      "options": [
+        { "text": "일정을 미리 꼼꼼히 짠다", "type": "J" },
+        { "text": "즉흥적으로 떠나는 걸 좋아한다", "type": "P" }
+      ]
+    },
+    {
+      "id": "q11",
+      "dimension": "JvsP",
+      "question": "업무 마감일이 있을 때 당신은?",
+      "options": [
+        { "text": "미리 끝내두고 여유를 갖는다", "type": "J" },
+        { "text": "마감 직전에 몰아서 한다", "type": "P" }
+      ]
+    },
+    {
+      "id": "q12",
+      "dimension": "JvsP",
+      "question": "계획이 변경되었을 때 당신은?",
+      "options": [
+        { "text": "혼란스럽고 불편하다", "type": "J" },
+        { "text": "새로운 기회라고 생각한다", "type": "P" }
+      ]
+    },
+    {
+      "id": "q13",
+      "dimension": "EvsI",
+      "question": "주말이면 당신은?",
+      "options": [
+        { "text": "사람들과 어울리는 활동을 계획한다", "type": "E" },
+        { "text": "혼자 보내는 시간이 필요하다", "type": "I" }
+      ]
+    },
+    {
+      "id": "q14",
+      "dimension": "SvsN",
+      "question": "당신은 어떤 이야기 스타일을 선호하나요?",
+      "options": [
+        { "text": "현실적인 이야기", "type": "S" },
+        { "text": "상상력 가득한 이야기", "type": "N" }
+      ]
+    },
+    {
+      "id": "q15",
+      "dimension": "TvsF",
+      "question": "갈등이 생겼을 때 당신은?",
+      "options": [
+        { "text": "객관적으로 문제를 분석한다", "type": "T" },
+        { "text": "상대방의 감정을 먼저 생각한다", "type": "F" }
+      ]
+    }
+  ]
+}
